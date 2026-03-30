@@ -2,6 +2,8 @@
 
 A demo system for real-time capturing, transcribing, and relaying audio between an Android smart watch, an Android phone, and a backend transcription server.
 
+**🎥 Watch the Demo Video:** [https://youtu.be/d_PDuOLc8Ek](https://youtu.be/d_PDuOLc8Ek)
+
 This repository consists of three main components arranged in a microservices-like architecture.
 
 ## Components
